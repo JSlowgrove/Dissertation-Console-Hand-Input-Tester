@@ -10,12 +10,12 @@ class HandInput
 {
 public:
 	/**
-	@brief Constructs the State object.
+	@brief Constructs the class.
 	*/
 	HandInput();
 
 	/**
-	@brief Destructs the State object.
+	@brief Destructs the class.
 	*/
 	~HandInput();
 
